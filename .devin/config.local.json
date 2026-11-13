@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Exec(mkdir)",
+      "Exec(dir)",
+      "Exec(php)",
+      "Exec(Get-ChildItem)",
+      "Exec(Select-String)",
+      "Exec(git config)"
+    ]
+  }
+}
